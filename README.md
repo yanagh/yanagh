@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yanagh
-- 👀 I’m interested in data and business analysis
-- 🌱 I’m currently learning data analysis, using Python.
-- 💞️ I’m looking to collaborate on data analysis projects and business analysis projects. 
+- 👀 I’m interested in data and business analysis.
+- 💞️ I’m looking to collaborate on project management / product management / business analysis. 
 - 📫 How to reach me - telegram @YC11013 or email yana.chshyogoleva@gmail.com
 
 <!---
